@@ -1,3 +1,5 @@
+ 
+
 # Hello! I'm Lucas Brum.
 
 - 🔭 I’m currently working on Data Engineering.
@@ -17,9 +19,6 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  
-  <img align="right" alt="Lucas-gif" src="https://cdn.discordapp.com/attachments/652991466091577365/988813732593406012/anime-hacking-computer-gif_qjk6.gif">
-  
 </div>
   
   ##
@@ -29,7 +28,15 @@
  	<a href="https://www.twitch.tv/leveleasygames" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasmatheusrodriguesbrum@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-rodrigues-brum/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <img width="135px" height="100px" align="right" alt="Lucas-gif" src="https://cdn.discordapp.com/attachments/652991466091577365/988813732593406012/anime-hacking-computer-gif_qjk6.gif">
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+  
+  
+  
+    
+ 
