@@ -31,7 +31,11 @@
   
   <img width="135px" height="100px" align="right" alt="Lucas-gif" src="https://cdn.discordapp.com/attachments/652991466091577365/988813732593406012/anime-hacking-computer-gif_qjk6.gif">
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
  
 </div>
 
