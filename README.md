@@ -2,8 +2,8 @@
 
 # Hello! I'm Lucas Brum.
 
-- 🔭 I’m currently working on Data Engineering.
-- 🌱 I’m currently learning Rust.
+- 🔭 I’m currently working on Data Engineering DataBricks + AWS 
+- 🌱 I’m currently learning Django
 - 😄 Pronouns: he.
 
 <div align="center">
